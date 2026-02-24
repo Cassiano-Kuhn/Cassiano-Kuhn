@@ -306,8 +306,8 @@
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="0.7s" repeatCount="indefinite"/>
     </circle>
     <line x1="521.5" y1="187.1" x2="538.6" y2="192.8" stroke="#ffb020" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="538.6" y="195.8" text-anchor="start" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Linux</text>
-    <text x="538.6" y="195.8" text-anchor="start" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.85">Linux</text>
+    <text x="538.6" y="195.8" text-anchor="start" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">GML</text>
+    <text x="538.6" y="195.8" text-anchor="start" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.85">GML</text>
     <circle cx="325.1" cy="206.8" r="2.5" fill="#ffb020" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="1.4s" repeatCount="indefinite"/>
     </circle>
@@ -350,5 +350,6 @@
   <text x="425" y="268" text-anchor="middle" fill="#64748b" font-size="11" font-family="monospace" font-style="italic"></text>
 
 </svg>
+
 
 
